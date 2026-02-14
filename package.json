@@ -1,0 +1,49 @@
+{
+  "name": "create-node-advance-app",
+  "version": "2.0.0",
+  "description": "Production-ready Node.js backend generator CLI with TypeScript support and best practices",
+  "bin": {
+    "create-node-advance-app": "./bin/cli.js",
+    "cnapp": "./bin/cli.js"},
+  "keywords": [
+    "backend",
+    "cli",
+    "generator",
+    "express",
+    "nodejs",
+    "typescript",
+    "api",
+    "rest",
+    "scaffold",
+    "boilerplate"
+  ],
+  "author": "Ashish Pathak",
+  "license": "MIT",
+
+  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/backend-forge",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/backend-forge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/backend-forge/issues"
+  },
+
+  "files": [
+    "bin",
+    "lib",
+    "README.md",
+    "LICENSE"
+  ],
+
+  "preferGlobal": true,
+
+  "engines": {
+    "node": ">=16.0.0"
+  },
+
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.5"
+  }
+}
