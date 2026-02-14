@@ -20,13 +20,13 @@
   "author": "Ashish Pathak",
   "license": "MIT",
 
-  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/backend-forge",
+  "homepage": "hhttps://github.com/ashishpathak2/create-node-advance-app",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/backend-forge.git"
+    "url": "https://github.com/ashishpathak2/create-node-advance-app"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/backend-forge/issues"
+    "url": "https://github.com/ashishpathak2/create-node-advance-app"
   },
 
   "files": [

@@ -10,7 +10,7 @@ async function main() {
   const args = process.argv.slice(2);
   const projectName = args[0] || 'my-backend';
 
-  console.log(chalk.cyan.bold('\n🔥 Backend Forge v2.0\n'));
+  console.log(chalk.cyan.bold('\n🔥 create-node-advance-app\n'));
 
   // Get configuration
   const config = await inquirer.prompt([
