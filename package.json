@@ -1,10 +1,11 @@
 {
   "name": "create-node-advance-app",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Production-ready Node.js backend generator CLI with TypeScript support and best practices",
   "bin": {
     "create-node-advance-app": "./bin/cli.js",
-    "cnapp": "./bin/cli.js"},
+    "cnapp": "./bin/cli.js"
+  },
   "keywords": [
     "backend",
     "cli",
@@ -19,7 +20,6 @@
   ],
   "author": "Ashish Pathak",
   "license": "MIT",
-
   "homepage": "hhttps://github.com/ashishpathak2/create-node-advance-app",
   "repository": {
     "type": "git",
@@ -28,20 +28,16 @@
   "bugs": {
     "url": "https://github.com/ashishpathak2/create-node-advance-app"
   },
-
   "files": [
     "bin",
     "lib",
     "README.md",
     "LICENSE"
   ],
-
   "preferGlobal": true,
-
   "engines": {
     "node": ">=16.0.0"
   },
-
   "dependencies": {
     "chalk": "^4.1.2",
     "inquirer": "^8.2.5"
